@@ -12,9 +12,9 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">Dr. Dubey's Dental Clinic</h3>
             <p className="text-gray-300 mb-2">Providing quality dental care since 2005</p>
             <p className="text-gray-300">
-              123 Dental Street, <br />
-              Bangalore, Karnataka, <br />
-              India - 560001
+              Near Pawan Rathi Office, <br />
+              Uttam Nagar, New Delhi, <br />
+              India - 110059
             </p>
           </div>
 
@@ -66,7 +66,8 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <p className="text-gray-300 mb-2">
-              <strong>Phone:</strong> +91 98765 43210
+              <strong>Phone:</strong> +91 80770 18989
+
             </p>
             <p className="text-gray-300 mb-2">
               <strong>Email:</strong> info@drdubeysdental.com
